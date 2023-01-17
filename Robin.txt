@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-Robin is a good boy
-Robin is the king oft this universe
-Robin is very smart
-=======
-Robin is a great guy
->>>>>>> 1119ea9 (Used File reading)
+Robin is a legend
